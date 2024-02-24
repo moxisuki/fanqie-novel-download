@@ -24,7 +24,6 @@ import os
 # 导入必要的模块
 import requests
 from bs4 import BeautifulSoup
-from ebooklib import epub
 from urllib.parse import urljoin
 import re
 import time
